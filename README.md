@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+chat service is a simple application that implement chat functionality using Nestjs, Typescript, node.js, postgreSQL and socket.io.
 
 ## Installation
 
